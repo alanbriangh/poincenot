@@ -10,6 +10,7 @@
 *5. execute the query
 *6. process the results
 *7. close
+*8. SSPV FASTTRACK DATALAB PERITACION HOGAR 
 */
 
 import java.io.*;
@@ -19,7 +20,7 @@ class GFG {
 	public static void main(String[] args) throws Exception
 	{
 		String url
-			= "jdbc:mysql://fastrack.sspv.com.ar:3306/table_name"; // table details
+			= "jdbc:mysql://fasttrack.sspv.com.ar:3306/table_name"; // table details
 		String username = "rootgfg"; // MySQL credentials
 		String password = "flag{expongocodigo_expongoclaves}";
 		String query
