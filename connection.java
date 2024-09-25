@@ -20,7 +20,7 @@ class GFG {
 	public static void main(String[] args) throws Exception
 	{
 		String url
-			= "jdbc:mysql://fasttrack.sspv.com.ar:3306/table_name"; // table details
+			= "jdbc:mysql://obras.sacde.com.ar:3306/table_name"; // table details
 		String username = "rootgfg"; // MySQL credentials
 		String password = "flag{expongocodigo_expongoclaves}";
 		String query
